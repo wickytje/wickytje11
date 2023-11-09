@@ -1,0 +1,26 @@
+{
+  "name": "Walter Sharp",
+  "age": 31,
+  "address": {
+    "street": "Udrab Turnpike",
+    "city": "Serico",
+    "state": "IN",
+    "zip": "82082"
+  },
+  "contact": {
+    "phone": "(820) 514-8714",
+    "servicePhone": "800493987"
+  },
+  "birthday": "1984-08-02T03:00:15.961Z",
+  "ip": "131.175.80.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Fakawo wutieb behas worul efa akun gusovar cutha pulauwo gial rato sul dul fuiw. Bi po ge elkaced opku jerus fofu gida ojmiwfi ekuziwaz vegizik vu pozvodbu ila sojiror dezgaupa awa. Atno puoki gu goillu sounal libzejis gos certub wula fek kemu cuhsi piczilen vavzikba.",
+    "bio": "Minic so duzje sev buvkawiv re lisrewoh dutudu bicubuw kigurva juf touju adleppet jabwuno. Cahsa laj uflu kiuca motisde somhesnud varavilog hohe ditzub atna doj luj berdamis vansisnop la ike memlodut legicjis. Ludbecbe adceim mag darib uhwev dinewe tiveb opepu kogmu pu iga homa opugo meur av ji puhidco. Idhu amotipev vocerec job midsorhaz on meurta va uzgeeli baz ma sigcawlo rig zi tufe ta kup vebonabu."
+  },
+  "apiKey": "c61f384e238663bad32a1f06621ad4af7d5e3981ad3951af0620e0415ac538c5",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
