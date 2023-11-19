@@ -1,0 +1,26 @@
+{
+  "name": "Eliza Chavez",
+  "age": 64,
+  "address": {
+    "street": "Tumvaz Mill",
+    "city": "Kutdigi",
+    "state": "NC",
+    "zip": "84470"
+  },
+  "contact": {
+    "phone": "(443) 921-1213",
+    "servicePhone": "800414679"
+  },
+  "birthday": "1989-03-29T16:39:27.770Z",
+  "ip": "48.204.247.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Buwoot vanumupe om ze lif riize goksez ko utmizzup kop azvu hagwofit zefoz ow. Gaf fos lemfetu emu iz enwel pifiabu zu iri ba ru durwardew. Julukniw ru po domuldo panga of icitewwud hik bahnil gum aduhi leiz nuozi cedwi jezsil fu el bogebsiz.",
+    "bio": "Su jafemod vuhot ol zowhozvuf ocuk cedmerum pehoneno eguoz uv jaw veligwe mab zut. Ehijoic zaipanom zit uvute tetim fu goczoz zumjif sugta be sobufno apaitika tagtavnig edemed pe dinfep. Reir zotalaki ib cemur mazve fewwaw omo ezihe vegoema pe waglabsat ek inasu bujobof jehcovo ebca kelas teapu."
+  },
+  "apiKey": "99a2a27a500c56be708b33c398fdacdcf7ea90c853ab5b3ad3483b88fc01e5fa",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
