@@ -1,0 +1,26 @@
+{
+  "name": "Tom Kelly",
+  "age": 56,
+  "address": {
+    "street": "Najba View",
+    "city": "Tuhgezi",
+    "state": "AL",
+    "zip": "69835"
+  },
+  "contact": {
+    "phone": "(356) 850-4233",
+    "servicePhone": "800231348"
+  },
+  "birthday": "1999-01-24T13:36:31.858Z",
+  "ip": "169.109.1.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Duso seasju tut uv ubujice iruehva jowa cas wa zumef upa ozteb ihurin kav uwa. Zuc ri rekgumana zegto muhi riilte cepa elbub juhzu bispe vecih je leve ruwuj kop jar vidboen. Ge eriij zaweho denac go kismevcij tuc funeza zu kimfop hiujebu ricwor uliedene namupmig ceum. Pi mi anonew di pozeme op wo otfi mobun vobju jicopew tuohver bihviznet ha gentil ajpavzu dissaf ofzut. Roin mi bujmihif bidem fetaajo zedace ofe johtim zos sus iwpidel guhagakis wewo upa sawdunev tak ze lonhofmi.",
+    "bio": "Fob medihes boek evlu ehvew kocot ov ukko wufirouz reffo sac etju ic cazuf doboziguz. Nepwinhi ka gu evupan sevduas li mildi sir cenlof bovibiju idbejwe nu wizmebkiz. Jafor cu garpulgun wo iwuzok nebki tozu bimbefoti hefuluc cicfud banfoak ajijabja wo zakun jinjowos cumdizfo wir."
+  },
+  "apiKey": "90365a894e130fdacfab77fb1c1c42cd65da2f9feef2e12d4f29f1782dd9ea01",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
