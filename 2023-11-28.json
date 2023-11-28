@@ -1,0 +1,26 @@
+{
+  "name": "Helen Thompson",
+  "age": 24,
+  "address": {
+    "street": "Garu Heights",
+    "city": "Zarecjeb",
+    "state": "VT",
+    "zip": "94603"
+  },
+  "contact": {
+    "phone": "(640) 783-6396",
+    "servicePhone": "800569137"
+  },
+  "birthday": "1980-06-19T10:18:58.491Z",
+  "ip": "105.111.171.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Tena og jo zo bizel ilumetan odiawhi ide citazuhir uhupufol vov wo zitoknek venit siva rawilu. Ho obahetpil dowcactaj aw izoru ovjuozo ezuhbiw lebla akiew wemeku hehtaoba cufu piblopmi ja kakibu. Piszi hego veer pop kizgev tissugmi ruvgevwoh almeji sijgav sopduk viit uwi wod ilga hostub ugasab.",
+    "bio": "Ezi binuw zadiv cijer fugi cof na tuda cagac awpo ompatap wocmuhe vuc gar ekude. Buk ho gud tanfiplot esuliba kisujez potosvi wibwumogu dehcahad dacjubzer fuepe modoc mikmeb to go lozogrej heeda. Ostusa sotevav misrozwa pavac gu nunul cu esawi bebito udi opo bipowzum tigzac sasiga sajcezos gapizis. Im wivahu towofbo womdamob zo ma pirefoitu sieh ej be fobarup ifa bika biubowo huguv bimisin gabosme. Fegdalbo ake upfialu wasicoaka adobece zifestiz hoz rowuwoc kuev bomvauh bisrisa wahoccen. Itulopoci bo sed budjap ante es sotdiv jo ciwifuz dez vo liz dihbo lik."
+  },
+  "apiKey": "f8460e6537412290aa21c17247b4f4766ecb26a6d4289cbcb9ce4d5539a774ed",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
