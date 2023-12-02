@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Stevens",
+  "age": 21,
+  "address": {
+    "street": "Isipa Pass",
+    "city": "Rabivu",
+    "state": "HI",
+    "zip": "91933"
+  },
+  "contact": {
+    "phone": "(564) 820-8140",
+    "servicePhone": "800819218"
+  },
+  "birthday": "1991-08-25T14:45:56.978Z",
+  "ip": "92.57.143.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Ocebot zuiclan reznawa sipinemuk larhem foliwzor pacgureg tuggamla sazbudda ujamu kuzisus ri jalgadme peg ni ifkovbif nep iso. Jizolrow hu giupenu nemen suiduir sohag geuz lihbuoko pebwuwa zi wi weotugid lalolo za tu kursac wa zi. Eli ilosabfir jipe fupvunca us butet eg se mounurap bopbat tu cuk kifdu ej woos ejeliafu dadu. Za jukul moragiuce pal esvan rupesku mup li awid tu cosov bohkusa obaipu to ulotupuk hoczom ajitidi venuki. Movdigep nazvi vizod vujciuda menvabu upvuwfi jam ozogu lukdanilu repoh upuwu laka lo. Mofnotki uduup heru hevedob isoar tehfuw gegmejafi ka jogdajnu liuk nopboel hazo.",
+    "bio": "Gousese lawjiw fubnob idu diawuco wit lij ozi ejofja fak at ludecrom. Vuj fuivo umohoddel kelimra fe jetnaur jepavfag dethep vo cejdeira ik wi si. Neragej hevkilal lipvo bi koka mecsope omej hamerhig pipir ru cipar ozu dodas rivubup."
+  },
+  "apiKey": "de2fded607d0d8adfa8abb83f0bf14b33fdd58f28d739bd6ac0908917c6479ed",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
