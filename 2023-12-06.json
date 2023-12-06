@@ -1,0 +1,26 @@
+{
+  "name": "Josephine Nichols",
+  "age": 23,
+  "address": {
+    "street": "Geciz Loop",
+    "city": "Fogejve",
+    "state": "FL",
+    "zip": "93037"
+  },
+  "contact": {
+    "phone": "(973) 988-5912",
+    "servicePhone": "800998917"
+  },
+  "birthday": "2001-10-07T10:33:16.222Z",
+  "ip": "157.94.97.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Bijej fu odhatih zev kicipil zepafnus hu vudjez hebnulav mut agelo kikocen no vujlowta. Du gabo cujaser diijiod cinpitfot le elahivo poko cuupcug havi cefesu fi ennuw peb. Dabzasa bu capbo pumagidil ecno neteko sidoco segzel juzhej wafonsi lopiov womiri za ocobic. Jitu cauvo falji waogfo zintaraj eb edi ti li henilpa ejoba te gizapvos.",
+    "bio": "Wef cimotoli kuc wez zelciam uncave wekeklib ida rowdatja sojubi ola do. Bu vishe usse vo wopfukep kuwa wus mooropa za kepofeca nap num nugriwit. Ozugu kejetzo hom ke zetbo jir bummepaz ipauju he osetecnut or rilo. Zusaiho duzozro no kumhoc jij petopofe ma no guoka zaferi wa ibdek piwkop. Pi adzob huhikeolu wihwu runwes notsifus tuoj reklizis kossar pa us zot geja sahac beekina ida usocummo. Habbum jeaso gag tev heb lo kaiki gigju dinnal zorapfur kegufup hijbibil bibpuc lirerama kisape sigi."
+  },
+  "apiKey": "6ab78ad4ce3f3b98d9e2c368177c26f95fd4bbc52b848f43e4a8a77a63387c65",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
