@@ -1,0 +1,26 @@
+{
+  "name": "Jeffrey Austin",
+  "age": 55,
+  "address": {
+    "street": "Zotvez Square",
+    "city": "Megrose",
+    "state": "ME",
+    "zip": "03220"
+  },
+  "contact": {
+    "phone": "(354) 283-8690",
+    "servicePhone": "800719525"
+  },
+  "birthday": "1975-05-01T09:03:05.510Z",
+  "ip": "192.200.11.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Fariruul bozzajeb widba edwecgeh pezuno ajeguuco vezubus rodi gunbolgeh tipem ginil nabde kohreluv so jemahwu. Fenab zouc gi gugalamag bidif di nirih robi budteno ri tefo jikuz jasiof. Ve bewodog defugih fag wa ol tut ujgogew irazowow rid pirakni luzu rip. Zurdo eli vohop ej mavwabpo tezodok wuctoire nuce lihpo ku ruzufbem pegafcog doj lumip.",
+    "bio": "Jittoewi ilac bagreb owferof tegho vugzodiv su mef buraz hezog cukgegir volma muv adame. Zaspuses racin cizcapuc le esojanci ila rilwe ehabik pas ja uwuriwa kewef nibruito. Su one atjof anuci fihob upoumele lefiku buuf cudvoohu lur li unci fe ve doj."
+  },
+  "apiKey": "1b6f352c33e47a5f89ee40afc14c662da60ff488d8282625419e6db6234d2521",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
