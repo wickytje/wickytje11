@@ -1,0 +1,26 @@
+{
+  "name": "Mario James",
+  "age": 45,
+  "address": {
+    "street": "Lobrib Path",
+    "city": "Tumeno",
+    "state": "GA",
+    "zip": "07547"
+  },
+  "contact": {
+    "phone": "(680) 667-3581",
+    "servicePhone": "800883356"
+  },
+  "birthday": "1965-11-20T18:33:05.813Z",
+  "ip": "201.233.207.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Sec ku hi tidnene kebugsut gueglip fikige pawgemum ugivnaz paur rudhuv wog vovofvug ofuhen. No tugsu pusu mo heulkos hiitfum sorloilu acdawok macaebo okefutzap ta neska wi ci zam ga gisewad aripohzib. Lilop cizmuwmor wiwmorec zohesa kan fitwej agelu voku hupocwac rum kel zowje faj muzkahnas. Mo col ced wetibib paveg likhic kowir re zuz hu afeguab vaveces fuloti petulu pu kokela buwlih.",
+    "bio": "Sidwo lekzi buhmum ug oga ze omohhah toofuze cuz pulogog jok hicukgu za bisor bet. Afa juhoso ewbajrep mojgi keosu dupor dubi wa ruvzuwpu mipi dahhasezu bazetnu tevwu. Kigwaz gum lokotraz tivlabi gih ejeekeib uhotu sanuptot hoc nucugi voja mesiju edoevso latore zeih wecidus. Fopaltet ja kaw bernubif he hi salmog jaf cutemoto faka ruw cawfi sukca mafazka uga niotut sati. Olomim joof fololli rowhe ekuhotmo ju cu nanamlin uto dugfe usibu paancot soj na won. Pozfufkiw if jaibuat ogmota arnihot uv dig amenew feriv unu da golimmo bidi gihe wirna afekuh pikniv pergon."
+  },
+  "apiKey": "16de640b081ab861e012068aa4cfb82e8db7a5f7db9c30f264ae5b31e4460a71",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
