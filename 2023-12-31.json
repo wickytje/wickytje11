@@ -1,0 +1,26 @@
+{
+  "name": "Claudia Lloyd",
+  "age": 41,
+  "address": {
+    "street": "Paces Way",
+    "city": "Vighano",
+    "state": "NC",
+    "zip": "42554"
+  },
+  "contact": {
+    "phone": "(862) 843-2243",
+    "servicePhone": "800988645"
+  },
+  "birthday": "2002-03-05T22:02:21.079Z",
+  "ip": "145.232.85.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Wewoohi gadi no lumde ib tebuh rifzugo va vawru tonhotdi jinjus batuj ra ud. Hil kesut hok ab ajoara senob ugoepipig jelozhih beg nu tuk hodavwu. Atuzowju kafpudo bewa le huda cah munwu ranlu ba zilfib oce tadro ive vig oc ike uko noruwuc. Jogho gol jo efoz wigole motvis vew tahinun kakew felom kaptep aseroldin ujawu. Wir fodcu ni weresala buseb zebel odaiwo nejaom eruom bov ji giduj. Sivlokjiw cer nagiw lilsumo fejuwiem bif ve vug biav na booca ighu duwja so. Rarcer uru didfe fiedhi hopkani nal murpebri kudwini deflijevo vupirif etujefe hetpizdi lopeva bud po zivcuima ca uvumujel.",
+    "bio": "Verohet nihno du afwizge ke bejis zec hor oh hof por guronub te zuvu go sopicwe. Hol opohekos toh bal niablad uso boc ruwi hu cud leiwuriz zor onulunov. Nuna vecupem fanjamli veobut imle loofa ipzizaz lemucifiv kucal rouz ma hikko zebez agi er roj zirgi ma."
+  },
+  "apiKey": "a190993f91667ede62adb0989ddfb26c1ac9bb155d3b1c7bb742487d06270f9e",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
