@@ -1,0 +1,26 @@
+{
+  "name": "Sylvia Meyer",
+  "age": 50,
+  "address": {
+    "street": "Adopis Square",
+    "city": "Jacmaut",
+    "state": "MN",
+    "zip": "39741"
+  },
+  "contact": {
+    "phone": "(779) 543-2991",
+    "servicePhone": "800785334"
+  },
+  "birthday": "2001-01-05T10:40:41.581Z",
+  "ip": "15.241.147.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Sinubo kib tatud zidjubtu sukadjo ir cewidhi re ikuhaj luk motosjo jumawri lujocze luhlow vamtilhav covhopoj fopame. Gin ucrian ajetivsac tihike vaov iwhadin ric vu fupuri vunrel ibmorob go. Cufvo adonasip bihrec fogfogu jo tam jo dok kuicfi seh gepiv naf ziwogom jeivu nopsa ter.",
+    "bio": "Poece siupuuj bisutafij zetpuvdu sab aviidapi mitarawim gana ti ni vek bi fewmeiz oceheca kuva jiriphon. Tewdo vohpoec lodza wojirsev ved oco ok me pezlihni mokhuz ize gamguzol hejrizni ag lepguscah petob lup za. Muba vices eja tef wafinal jime zitzafci pib gor huab hoc kij."
+  },
+  "apiKey": "1db779c87b27a5461ba41dc1b2568eae5088a9e961ddb189ed314e4e501304b0",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
