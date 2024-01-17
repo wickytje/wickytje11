@@ -1,0 +1,26 @@
+{
+  "name": "Olga Ramsey",
+  "age": 45,
+  "address": {
+    "street": "Zahmec Loop",
+    "city": "Nowejmi",
+    "state": "DE",
+    "zip": "89681"
+  },
+  "contact": {
+    "phone": "(714) 908-3896",
+    "servicePhone": "800771251"
+  },
+  "birthday": "1964-05-29T13:00:19.732Z",
+  "ip": "253.241.94.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Coku vion bogaj saj owjimzo ikcopup po ulu teirug poslen kajfigisa ce mappegla cerajjo. Julubka got decoma kumpazop avloca toot sobuejo ocunigfu mezke jom zefepaw cocnig zu lenjedor duditwa taj ijofibmoc. Veotija sulfahet ricahke rutwabri niputoh imesat un voctisak rugem woti dar div var puw sifunnej tij emi. Fipek suip leb ame uf irnono totad fip cokup kuhcazco pizgafug pol nicope hih. Adnij pij um gunmocno zewit avvuce huk asi ofufepip zuj fegedeho pogefzof.",
+    "bio": "Wampifu necnior von tadu wo da ukla rihuk he vofifo ro arpazmuw hap fuap ragkafu si. Voic kez nouwo fis enve vufe zoipoif gubridka uciji ijamuh ruzranju velko mavuoca bil biwe. Zutwu hid pov dij asohov toecda bon ogibencob muru vag lupuvhis em puol adcuki pa. Ofvereg vialeju nutsecfob uso zanizva ficaj kij ocfoz vampelwur irficuzi foom mawwikral it gujufe jo."
+  },
+  "apiKey": "330b0b1776d936621edbe2a23b98dcbe1901ca327092a9f23b80771d26f4778a",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
