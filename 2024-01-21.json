@@ -1,0 +1,26 @@
+{
+  "name": "Martin Valdez",
+  "age": 46,
+  "address": {
+    "street": "Budape Junction",
+    "city": "Idzazvo",
+    "state": "MO",
+    "zip": "32064"
+  },
+  "contact": {
+    "phone": "(463) 345-9949",
+    "servicePhone": "800574134"
+  },
+  "birthday": "1996-10-05T01:20:21.094Z",
+  "ip": "52.147.209.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo kum zoopvuz orofef acunieka zapgeftib ol za gekegu se zewaduh redas am lavaubu ji. Labifmo ti piwpis arukiteje sizoaz deezat zusosa kefige muc ki acemico juod cokkusdum tovsokko icodot fukfuzava dir. Zubar racpap ala enejili gi hal ufoemo fejbe aksajesu iju kojoge maaro. Uparev wapabuje umwu sobe bim he vag uzaze bamgos wot meehego fuuhpez.",
+    "bio": "Netinur bewa zewuca ubogafmi lunpowuc ehosa dog eh cirmu je afaazumo omodima lup pabhon ebe waka tugacu rasov. Ni bof fes ocbag ususe tuapof betne sijwaj eblaz sadampo kasug hoewwe opasokud nokinevum fimma. Athe igotage juotip ojecidni boiwije siurjar zap pelajgoc gulite ruf peilu sufipis sagaka gegtazi."
+  },
+  "apiKey": "9ac822d998ed7138b0e9edbfcf35dad63d33c8e1fa5f9a404b51f6aa7ad5a9d6",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
