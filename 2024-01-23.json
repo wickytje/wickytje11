@@ -1,0 +1,26 @@
+{
+  "name": "Jean Burke",
+  "age": 48,
+  "address": {
+    "street": "Ocisow Road",
+    "city": "Lakhadab",
+    "state": "LA",
+    "zip": "72453"
+  },
+  "contact": {
+    "phone": "(749) 316-5399",
+    "servicePhone": "800372215"
+  },
+  "birthday": "2001-03-16T19:44:12.946Z",
+  "ip": "206.249.228.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Za rituf ik sipvuor eme kicutar cerwo go hiner vu nivibu meknida are totoar. Lowarak mewjufu dalocbej hulow cutcec bihha boto okocuwe coziof nuz hum wipak mijusolem za wudlulza vum. Pivtadu ipuzodbew vit ukbuuwo debzu zu muovuke tabbe rij vepuhniv gampuszi hefiici pes ore.",
+    "bio": "Kilpioze femzejlu saeza ki fon tab kanatefup do dipit cidcez vuhriw cigguaba miwodew kuf lepahbe hekog ricnahnoz. Cepas ruz ha boceh va kuc uwene anezilha vaczu hunjiiji raakezu gemel cazep moipo cejida. Con rurralho pep waj ofu ge baz nicipi nazalejo hivzojib goige iw ucovitez berlad te cedgumvug vef. Noduh wus awuwo zil pucbeefu ifiopu jejtil da deruw va bojisrer vefre lonso nucure vubwa akhonzu. Nojvod ownefcaf sihwel mujive samu zu givor erucokof vatuhona rajuv zeb ec his lo ci fib alaj. Vef pebadioti cergub goppoki zobvap taddotal ehepu hiho we igiganew fic ajsol te."
+  },
+  "apiKey": "37cae4a536831e34a110ff01a4e4f96629b3d5b951386f88f170d48e93a3c6bd",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
