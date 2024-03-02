@@ -1,0 +1,26 @@
+{
+  "name": "Marc Simmons",
+  "age": 38,
+  "address": {
+    "street": "Cuge Pike",
+    "city": "Ajoimdu",
+    "state": "ND",
+    "zip": "33347"
+  },
+  "contact": {
+    "phone": "(408) 874-2053",
+    "servicePhone": "800567227"
+  },
+  "birthday": "1997-01-05T12:18:03.503Z",
+  "ip": "201.229.97.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Iwi teri wuta etfuruk pados eceiza hin mu jej ucamit te koh osemefo jidpad ev. Poluwjap puv upo tajiw utet doz sumtowaf fu viwkag gakka kapva wapezi mes. Pewnur falman ka poic onefela suruzki reaf izi geg wibugpi lewu wu pelbire ceciuba elhan ka jov.",
+    "bio": "Dir ibozo kigocuh ru urno ehhik pulaza ib mag hulzoc unakimu lazbaggo. Ro lun up jeva ap va mitmo rekula vofdokzaf kijwipbav sejfeh otnaiv odti icwijaz wopul. Hud gativava ve sidfuk wukelkec lizpizu si nepujto su wok huwam jaftazas sonjog mija."
+  },
+  "apiKey": "eed1e0d4b41448956f0498f7133d68f67d68ed4f2dad70b3d71390b9c869ff66",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
