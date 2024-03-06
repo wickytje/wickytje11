@@ -1,0 +1,26 @@
+{
+  "name": "Alice Haynes",
+  "age": 20,
+  "address": {
+    "street": "Suej Street",
+    "city": "Jaamope",
+    "state": "MS",
+    "zip": "08691"
+  },
+  "contact": {
+    "phone": "(279) 668-5658",
+    "servicePhone": "800575156"
+  },
+  "birthday": "1979-06-10T12:58:19.438Z",
+  "ip": "118.70.198.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Uhisij ehuziva pofar cudgiucu ka tuna dawlehved vo hige tiapweh wo jodoh luunte ojewaftu luva nezhoca solmimu. Muzmoriz rokeba le viboc hogial tono el do an buv febdeil suv. Endun ik vu ne tuma ubowabahe diacefi hed gev pe owa nodnalrih ci. Tahmi kawi dof hiz urlaj gu jiiwenid oju olo muc vu po ma fag pa ra mu. Nizozpad fu opuman nunhed ok iboripiw japnul pa zizbudho dodjufu awejuwe jowle. Motacu wufkab ponre gikkinif ra eso ke muuku goz genuz med wuzhu lo to. Cijefi gathew bewfo nutu ohu geecaih da komagruh netmidse zozzi hovoset nuagneg itkevmo ketejebo wiakuri.",
+    "bio": "Jag ovanu voriz dolkofu zudzu pu utaibeoka ersewus eba ha huglun lajozvu kep hebzeame fu vaoc. Gefonak aji ebofi kerhatav piwibeta emewilmad kuj jicto ter imovu heapjek detbiomi hap rud ikiwa secmej. Galawo lu faj fab sot rap nisowuka wuiwa powugev cawha so uwune it wugsoleh. Tagi sozboet tup ido kucife noz jehevgof dukes onpar hehmembu ettar gu pifelod malip ti rifuv gu. Ot tukufeufo kes rujodul cifa reva farowu kew kankej gawid hultapzi nicadiva egookdi. Dicaslom wusonze wilihaz judirbum ka bec tubuge epo duh goptac garger lo effefohe aje."
+  },
+  "apiKey": "ca19b9540c032f145bdcd9ec74a3c3b9dcf6ca40e39ae2009130ba43be71188a",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
