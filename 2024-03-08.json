@@ -1,0 +1,26 @@
+{
+  "name": "Sue Baldwin",
+  "age": 18,
+  "address": {
+    "street": "Fouru Court",
+    "city": "Orfefta",
+    "state": "AR",
+    "zip": "15681"
+  },
+  "contact": {
+    "phone": "(432) 852-7861",
+    "servicePhone": "800545458"
+  },
+  "birthday": "1987-12-19T02:38:54.572Z",
+  "ip": "209.248.50.211",
+  "foo": "bar",
+  "profile": {
+    "about": "De ar geme rarluptan ifmakiko eblicat totelur ushomof farbara vegopu vogcaeb ludage fez ojletduw gipa. Kuseri bi ira kodi uve lobkiluhu eku hamwi ritsaidu fodwalre gimulmap bigmifo mir buhi epdagpa uvo divloha leh. Atide ar wuniciz fifpeke sewarupo bo gavin na amenota ij gikobe voszekhip dasolu. Pa rodtuf va ladu zupafi ilosuse de remem fad epcoho lib raccebguh dozijtuk dihusak av.",
+    "bio": "Sezfivlib fibfav kozomad kew cagortaz ut mokve lapozi zozu hobpebif hupodtij holulhi fasge nazziwo ujam ev totuhot. Sod obhew jaoz juzapav zaf ge etu buhgos ga bed vuoc asusek ewunodlac agze uhmihom ukcidho kagko. Mushopu pozvacgu figanbic zaf puzfized hijunaji ataludi kajalug nesifwi zi ecererab jiwcucko."
+  },
+  "apiKey": "3de67ef1f2e7838107e2e92218364e7e4f2f2e123dcd593e3827631e1a8e4faa",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
