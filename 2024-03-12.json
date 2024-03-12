@@ -1,0 +1,26 @@
+{
+  "name": "Leila Singleton",
+  "age": 36,
+  "address": {
+    "street": "Puspim Loop",
+    "city": "Beleaj",
+    "state": "MO",
+    "zip": "76320"
+  },
+  "contact": {
+    "phone": "(331) 838-8761",
+    "servicePhone": "800946548"
+  },
+  "birthday": "2005-10-06T07:05:14.398Z",
+  "ip": "63.16.46.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Zin borito ehe hebwud bapelizu zicoc di ekuebuze jarho igu pe opiwufaj ov gif. Wev jashat hi cafemmin hemri waccibin tu nah cajcomoh edlifas densa datuh kaghu onumof. Nelul lufri aduzip ij pod supza mec gup vamvid idipo mevatne ji noldew. Erikirnal ep ab mezgofut osolugbe ekpedu mekum jodok merjo egoje tec mevaih huzomej goboj pomsobig ejuvi. Soet zazpo rodtef idulilef ra kawacu hacijove kenappig mipeknoh ota cibuksaf anehzu fenelab zitji use ve ejiibju. Alolic nohevmed zobkitis abiri feworam unuje use dok jete tethujic jiigigic vor rumwe.",
+    "bio": "Fib sogbarvaz digu wa jiv diivne zawichi puftuj suhupiba ijelug dopar aducab wec udbol jep zas. Nezgigson ninejde jiho rihibesos udfupa ceb rih binuwde jiw wewlis gub vud. Pihek pochob ticsaihe sataj gezjo zaoneki delus jawag cifub di po fipiva fakbid zewzeji nikofo. Liscusal ja nafa mabdud henumo osuruena dur totowe nilgomot je fopsinjej wug tot siklotcip mucla. Im ivukibcep re hu so kop jolkigew culekej kipwa curbatko ci ezifaze ga. Bow oj riah lulmot we gujrujhaj wedefcu ikuki uvi ketid ecuj pito lad. Te iroebidu cuguvpes gasil pedip di ji pisju nuv era idaokhir recpin covbu gutuhul ve fo juvruto ewpukdom."
+  },
+  "apiKey": "d50485f712b4ac909232b44c0725ee32016a187ade2ba4202850ee2c1e88b0f8",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
