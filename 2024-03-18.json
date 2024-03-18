@@ -1,0 +1,26 @@
+{
+  "name": "Glen Richards",
+  "age": 44,
+  "address": {
+    "street": "Luva Square",
+    "city": "Vagiscab",
+    "state": "AK",
+    "zip": "16762"
+  },
+  "contact": {
+    "phone": "(512) 481-3536",
+    "servicePhone": "800895299"
+  },
+  "birthday": "1982-02-09T08:55:10.470Z",
+  "ip": "175.66.37.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Kemuf lo jopromo dies imaloc gijalli likveju bimdow siet cujembuk kuldepha agevipvoj kecacusuk amle ma uzamo jin hachuok. Nanji kifpaz cobud reccakjuv fazo gu caf fisugsu soabela umopu uk kifbulase luhov figala. Becwateg valtojal nuda do eftilif ilu hi pedun wilu kubdajub il luwho zijude.",
+    "bio": "Ed nap pofuk mufzup wap mewos buv canusko radiju ni mebvien te. Mogir koga mivam tici cighowdin tobo ogajev pop ubu jeusizan juhiji napozsa ramjatsad nehsu pofcaro sas. Sezeto nabidad mo tommu sorgi gu upuocemu izaasgo baz kok ugeujaik ohnu nobibze."
+  },
+  "apiKey": "f1d864de6fdc4faf7070cc4f00fdc19a374e1ccd1686e272f30664c57b5afd88",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
