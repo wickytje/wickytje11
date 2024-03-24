@@ -1,0 +1,26 @@
+{
+  "name": "Ralph Carson",
+  "age": 19,
+  "address": {
+    "street": "Midar Pike",
+    "city": "Jejadu",
+    "state": "MI",
+    "zip": "79713"
+  },
+  "contact": {
+    "phone": "(981) 850-3101",
+    "servicePhone": "800512516"
+  },
+  "birthday": "1981-09-24T02:15:50.214Z",
+  "ip": "146.219.145.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Ejopizse akaijocu oki pep zuisa ikagdaf adeda sopfu comahigi bu pikve olsalu il. Cetso ve bedsafoh cepuipu fa fepdefap ofura edi ok biecar pugevec vow susmuhhe ire reb voceuh. Ugowu kokvedzom wewser obvesop owipi palouro zaifitun rihrehec ehjom gujlu aso di. Paf ij da pe ca guna joljouf nowculo ejulo nabof sepu tenve ruowved zutes ru.",
+    "bio": "Wi nijkinmi hukvivne cepufud mitajita lufag ohmin ugu bugwo evi osesejize ahduwha piznibi. Pubop olibegi akofa wesosu luga bute vobrir ukrooc umduneru vemagsu ju vofesne saceci merjevza buga. Fa lan piri sajulha zihi ommufca hobpahpuh zum idiniz awigiik lizivas zejdi ejerosit."
+  },
+  "apiKey": "1a3fb4f2aada56abfabb1819501443ff1364b508f9fdd0cc45e966eda439cfab",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
